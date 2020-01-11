@@ -9,7 +9,7 @@ Here is a Node JS Team Profile Generator made in javascript, Node Js, HTML. When
  
 
 ### Animation, generated HTML, pdf of profiler
-![Getting Started](Assets/unit_profile.gif)
+![Getting Started](Assets/unit_10_profile.gif)
 ![Getting Started](tk)
 
 ### Prerequisites
